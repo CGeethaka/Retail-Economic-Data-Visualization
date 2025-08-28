@@ -6,6 +6,8 @@
 This project uses Excel Pivot Tables and Pivot Charts to analyze retail and economic datasets.  
 The goal was to identify **sales trends, store-type performance, and macroeconomic factors (CPI & unemployment)** over time.
 
+# Please Download "Retail_Data_Visualization.xlsx" and open it.
+
 ## Data & Methods
 - **Tool:** Microsoft Excel (Pivot Tables & Pivot Charts)  
 - **Time Variable:** Weekly (X-axis in all charts)  
