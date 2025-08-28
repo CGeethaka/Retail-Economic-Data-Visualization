@@ -1,0 +1,2 @@
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+Retail[[:space:]]data[[:space:]]analitics.xlsx filter=lfs diff=lfs merge=lfs -text
