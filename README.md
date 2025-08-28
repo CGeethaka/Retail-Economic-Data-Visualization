@@ -27,7 +27,8 @@ The goal was to identify **sales trends, store-type performance, and macroeconom
 - CPI and Unemployment at weekly frequency are **too noisy**, but useful for spotting short-term shocks.  
 
 ## Files
-- `Retail_Data_Visualization.xlsx` → Excel workbook with pivot tables and charts
+- `Retail_Data_Visualization.xlsx` → Excel workbook with pivot tables and charts.
+- Download `Retail_Data_Visualization.xlsx` and open it.
 
   
 ##Screenshots of the visualizations  
