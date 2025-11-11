@@ -33,10 +33,12 @@ The goal was to identify **sales trends, store-type performance, and macroeconom
 - Download `Retail Data Visualization.xlsx` and open it.
 
   
-##Screenshots of the visualizations
-##Dash board
+#Screenshots of the visualizations.
+
+##Dash board part 01
 <img width="746" height="448" alt="IMG1" src="https://github.com/user-attachments/assets/cb40b25f-8e78-449f-aab4-e2bfa1b1d666" />
 
+##Dash board part 02
 <img width="742" height="455" alt="IMG2" src="https://github.com/user-attachments/assets/49b4a8fd-172f-4c38-8bc5-b5ed508b566a" />
 
 
