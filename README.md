@@ -41,14 +41,6 @@ The goal was to identify **sales trends, store-type performance, and macroeconom
 
 
 
-<img width="571" height="373" alt="Capture1" src="https://github.com/user-attachments/assets/f2434764-2029-4d92-84ab-9dcaf888bfa9" />
-
-<img width="666" height="390" alt="Capture2" src="https://github.com/user-attachments/assets/4e9e6b90-e966-4d33-be6c-dcbf056dd1b9" />
-
-<img width="735" height="387" alt="Capture3" src="https://github.com/user-attachments/assets/7b513da7-6f05-4a19-9d07-417fd2960878" />
-
-<img width="737" height="416" alt="Capture4" src="https://github.com/user-attachments/assets/b355aea1-8fc6-4b06-949d-b26bdc1bf842" />
-
 
 
 
